@@ -5,7 +5,7 @@ O projeto consiste em troca de mensagem P2P entre usuários via rede local ou VP
 
 Passos para conexão:
 
-1 - Defina um nome para o servidor (pode ser o padrão) 
-2 - Insira o seu IP público e a porta que deseja conectar e clique em "definir"
-3 - Tenha certeza que seu amigo tenha realizado os passos "1" e "2" e consiga o endereço de IP público dele que usou pra registrar o servidor.
+1 - Defina um nome para o servidor (pode ser o padrão) \n
+2 - Insira o seu IP público e a porta que deseja conectar e clique em "definir"\n
+3 - Tenha certeza que seu amigo tenha realizado os passos "1" e "2" e consiga o endereço de IP público dele que usou pra registrar o servidor.\n
 4 - Insira o endereço de IP público no campo "Adicionar amigo" juntamente com a porta (lembrando que a porta tem que ser a mesmo em todos os servidores) e clique em "Adicionar"
